@@ -1,6 +1,6 @@
 //
 //  MIMETypes.h
-//  Kaiten
+//  MIMETypes
 //
 //  Created by Ken M. Haggerty on 10/5/15.
 //  Copyright © 2015 Eureka Valley Co. All rights reserved.
